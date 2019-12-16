@@ -1,0 +1,14 @@
+
+#1
+
+Initially we have defined a variable r as 20, 
+Then we have defined pinter p which contains address of r then p is passed by pointer in function fun where its value is changed to 10. 
+Since it is passed by pointer. So, changes would also reflect in main.
+Hence. the output is 10
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+#2
+
