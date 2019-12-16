@@ -12,3 +12,15 @@ Hence. the output is 10
 
 #2
 
+In 2nd question it using function pointer.
+Which means it is storing the address of function and then calling it with the value 10. 
+So, it will print Value of a is 10
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+#3
+
+
+
