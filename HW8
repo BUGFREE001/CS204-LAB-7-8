@@ -24,3 +24,47 @@ So, it will print Value of a is 10
 
 
 
+
+
+
+2)
+
+Output: Returned index is 2
+
+Explanation: Here we iterate the array and try to find the value 7 in the array if the value is found we return the array index otherwise return -1.
+7 is found at index location 2
+
+hence index 2 is returned
+
+3)
+
+Output:
+
+
+garbage
+garbage
+garbage
+
+Output:
+
+10
+10
+10
+
+Explanation:
+
+For the first code, i is local variable whose scope is till the function.
+Once it comes out of function, the int i disappears and hence garbage value is printed
+
+For the first code, i is static variable whose scope is throughout the program
+Once it comes out of function, the int i value is printed which is 10
+
+
+
+
+
+
+
+
+
+
