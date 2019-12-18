@@ -134,9 +134,9 @@ int main()
 {
 char s1[10],s2[10];
 printf("Enter the first string:");
-gets(s1);
+fgets(s1,sizeof(s1),stdin);
 printf("And second string:");
-gets(s2);
+fgets(s2,sizeof(s2),stdin);
 printf("\n");
 int l1=strlen(s1);
 int l2=strlen(s2);
