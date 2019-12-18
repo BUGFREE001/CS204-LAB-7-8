@@ -120,18 +120,15 @@ return 0;
 --------------------------------------------------------------------------------------------------------------------------------------
  
  
+ 
+ 
 #4
-
-
-NOTE:
-
-Please MAKE SURE your complier HAS <conio.h>, then run the code.
 
 
 
 #include<stdio.h>
 #include<string.h>
-#include<conio.h>
+
 
 int main()
 {
